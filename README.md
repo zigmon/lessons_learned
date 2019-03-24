@@ -5,3 +5,4 @@
 3. Command Line
 4. Git / GitHub
 5. Version Control
+6. Javascript
